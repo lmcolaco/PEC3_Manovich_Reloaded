@@ -1,8 +1,5 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 
-### Recurso de aprendizaje de Cultura Digital
-
-
 Autor: Luis Miguel Colaço Rocha da Silva
 
 Fecha: 02/06/2024
