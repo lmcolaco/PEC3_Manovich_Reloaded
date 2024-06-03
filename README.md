@@ -19,15 +19,17 @@ La hibridación se refiere al proceso de integración y combinación de diferent
 
 ## Re-descubriendo la hibridacion: Hiroaki Umeda
 ![](https://lh7-us.googleusercontent.com/N2VA05PnGck9y-eB2DFZyQ5wEZUht8lcXwAB0z53tnRKKBU_EgwQNc7XI17KumowgCVywvgZIUxYkeNLBCNflG7oBn-AwYJBJe-X1Vq8mSrVneIBjDnBcYR1yekhhVOEYulnVpzw5-iCCrzc_GTcXlU)
+
+
 Hiroaki Umeda es un artista japonés conocido por sus performances que integran danza, tecnología y audiovisuales. Su trabajo es un ejemplo claro de hibridación, donde combina elementos de diferentes disciplinas para crear una experiencia artística única y envolvente.
 
-  
 
 En las obras de Umeda, la tecnología no solo se utiliza como una herramienta adicional, sino que se convierte en un componente esencial de la performance. Utilizando sensores de movimiento, proyecciones visuales y sonido digital, Umeda crea un entorno interactivo donde la danza y la tecnología se fusionan de manera orgánica. Esta integración permite que los elementos visuales y sonoros reaccionen en tiempo real a sus movimientos, creando una experiencia inmersiva y dinámica para el espectador.
 
 La hibridación en el trabajo de Umeda no se detiene en la combinación inicial de medios. Cada performance es una exploración continua de nuevas posibilidades tecnológicas y artísticas. Umeda experimenta con diferentes formas de interacción entre el cuerpo humano y los elementos digitales, buscando constantemente nuevas maneras de expandir los límites de la expresión artística. Su enfoque en la hibridación le permite evolucionar sus obras, adaptando nuevas tecnologías para enriquecer sus performances y ofrecer experiencias innovadoras a su audiencia.
 
 ![](https://lh7-us.googleusercontent.com/6RcT0nIcRjrFBcImPvhalONLMCOxNBKBCLI5wT3EzSvV4oOK578oUDrrd5j6NS74t5IQzKUWRpY7T2hlKcVlG9VoHRu9_WEWQ17FH4I5vMU6JKRqjCE0CzHiPK_RI0ymtSz5JUv2qshxoGRAM2un6-8)
+
 
 Esta hibridación no sólo da lugar a un nuevo tipo de experiencia sino que consigue algo más profundo. **Un cambio de percepción** en el momento de creación al punto de que el artista reconozca que deja de ser un coreógrafo para transformarse en un diseñador de comportamientos. Esta idea de **nueva especie** es muy comentada por Lev Manovich y la que diferencia el concepto de hibridación del de remediación o multimedia.
 
