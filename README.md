@@ -32,12 +32,43 @@ Esta hibridación no sólo da lugar a un nuevo tipo de experiencia sino que cons
 
 
 
-## Re-descubriendo la hibridacion: Waze
+## Re-descubriendo la hibridación: la app de Waze
 
+![](https://lh7-us.googleusercontent.com/Snn3Gk4CYXh4dQw_KgVQBVTr9faIPUzynWcHa4Uwynqwyz7i6gOypxyhYfy9n4HTm1h5GzkW6QYfrL5qlc8EJ9YXUDd-Gd5FcN1rSCrNtIrnrRT5h0y7b4RHnxMjDcV4QVkYjRgJd-spIbrRPHq5AFk)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Waze es una aplicación de navegación que ejemplifica la hibridación en el ámbito de la tecnología. Combina datos de tráfico en tiempo real, mapas digitales y **contribuciones de usuarios** para ofrecer una experiencia de navegación optimizada.
+
+Waze aprovecha la capacidad de los medios digitales para combinar diferentes tipos de datos en una sola plataforma. La aplicación no solo muestra mapas digitales, sino que también integra reportes de tráfico en tiempo real enviados por los usuarios, alertas de accidentes y condiciones de la carretera. Esta combinación de datos crea una experiencia de navegación más rica y funcional que cualquier sistema de mapas tradicional.
+
+>"Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles"​​ — Manovich, 2013
+
+Waze utiliza esta capacidad para ofrecer información precisa y actualizada sobre las condiciones de tráfico, lo que ayuda a los conductores a tomar decisiones informadas en tiempo real.
+
+Una de las características más innovadoras de Waze es justamente su componente social. La aplicación permite a los usuarios interactuar de manera activa, reportando incidentes y condiciones de tráfico. Esta interacción social y colaborativa es un ejemplo de cómo la hibridación no sólo se trata de combinar medios, sino también de **crear nuevas formas de interacción y participación del usuario.**
+
+  
+  
+
+## Conclusión
+
+  
+
+> "El proceso de hibridación genera nuevas estructuras y formas de interactuar con los medios." — Manovich, 2013
+
+La hibridación es un proceso clave en la evolución de los medios digitales, que permite la integración y combinación de diferentes tipos de medios para **crear nuevas experiencias y formas de representación**. Tanto Hiroaki Umeda en el ámbito del arte como Waze en el campo de la tecnología ejemplifican cómo la hibridación puede transformar y enriquecer sus respectivos campos añadiendo un nuevo peldaño a la escalera de los medios.
+
+>“Este mecanismo es la hibridación. Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones” — Manovich, 2013
+
+Esta capacidad de combinar y reconfigurar diferentes medios es lo que hace posible la innovación tanto en el arte como en la tecnología, demostrando el poder transformador de la hibridación en los medios digitales.
+
 
 ### Referencias y Bibliografía
 
-
 - Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+- Web personal **Hiraoki Umeda** [consulta: 02/06/2024]. Disponible en: [http://hiroakiumeda.com/](http://hiroakiumeda.com/)
+- EVELYN VELÁZQUEZ. (2019) [consulta: 02/06/2024]. Disponible en: ["El mundo"](https://www.elmundo.es/cultura/danza/2019/07/11/5d263a73fdddffcc638b4626.html)
+- Mediateca Danza UNAM. **Hiraoki Umeda** [consulta: 02/06/2024]. Disponible en: [Mediateca Danza UNAM](https://mediatecadanzaunam.mx/acervo-item/hiroaki-umeda/)
+- Mutek. **Hiraoki Umeda** [consulta: 02/06/2024]. Disponible en: [Mutek]([https://barcelona.mutek.org/es/artistas/hiroaki-umeda](https://barcelona.mutek.org/es/artistas/hiroaki-umeda)
+- Instagram **Hiroaki Umeda Team**: https://www.instagram.com/s20hiroakiumedateam
+- **Waze**. [consulta: 02/06/2024] [https://www.waze.com/es/company](https://www.waze.com/es/company)
+
