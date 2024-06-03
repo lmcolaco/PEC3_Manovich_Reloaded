@@ -79,7 +79,7 @@ Esta capacidad de combinar y reconfigurar diferentes medios es lo que hace posib
 
 Imagenes:
 - Gafas: Pixabay. **Clker-Free-Vector-Images** [consulta: 02/06/2024]. Disponible en: [Pixabay](https://pixabay.com/vectors/spectacles-glasses-eyeglasses-frame-311831/)
-- Iraoki Umeda:  [consulta: 02/06/2024]. Disponible en: ["El mundo"](https://www.elmundo.es/cultura/danza/2019/07/11/5d263a73fdddffcc638b4626.html)
+- Iraoki Umeda:  [consulta: 02/06/2024]. Disponible en: ["Mi reino por un caballo"](https://mireinoporuncaballo.blog/2019/07/22/hiroaki-umeda-no-estamos-en-el-mundo-el-mundo-esta-en-nosotros/)
 - Instagram **Hiroaki Umeda Team** [consulta: 02/06/2024]. Disponible en: [https://www.instagram.com/s20hiroakiumedateam](https://www.instagram.com/p/CtbcYv1yecW/)
 - Autobild [consulta: 02/06/2024]  Disponible en: [Autobild](https://www.autobild.es/noticias/como-utiliza-waze-informacion-usuarios-tiempo-real-1296154)
 
