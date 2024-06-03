@@ -4,7 +4,7 @@ Autor: Luis Miguel Colaço Rocha da Silva
 
 Fecha: 02/06/2024
 
-![image](https://github.com/lmcolaco/PEC3_Manovich_Reloaded/assets/171519137/3cf230b9-54be-487e-8a0d-3fc24b6c9a2d)
+![image](https://github.com/lmcolaco/PEC3_Manovich_Reloaded/assets/171519137/fa8bbd8c-df82-4720-93df-4384cfd1c92a)
 
 
 ## Planteamiento
@@ -77,6 +77,7 @@ Esta capacidad de combinar y reconfigurar diferentes medios es lo que hace posib
 - **Waze**. [consulta: 02/06/2024] [https://www.waze.com/es/company](https://www.waze.com/es/company)
 
 Imagenes:
+- Gafas: Pixabay. **Clker-Free-Vector-Images** [consulta: 02/06/2024]. Disponible en: [Pixabay](https://pixabay.com/vectors/spectacles-glasses-eyeglasses-frame-311831/)
 - Instagram **Hiroaki Umeda Team** [consulta: 02/06/2024]. Disponible en: [https://www.instagram.com/s20hiroakiumedateam](https://www.instagram.com/p/CtbcYv1yecW/)
 
 
