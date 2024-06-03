@@ -75,9 +75,12 @@ Esta capacidad de combinar y reconfigurar diferentes medios es lo que hace posib
 - Mediateca Danza UNAM. **Hiraoki Umeda** [consulta: 02/06/2024]. Disponible en: [Mediateca Danza UNAM](https://mediatecadanzaunam.mx/acervo-item/hiroaki-umeda/)
 - Mutek. **Hiraoki Umeda** [consulta: 02/06/2024]. Disponible en: [Mutek]([https://barcelona.mutek.org/es/artistas/hiroaki-umeda](https://barcelona.mutek.org/es/artistas/hiroaki-umeda)
 - **Waze**. [consulta: 02/06/2024] [https://www.waze.com/es/company](https://www.waze.com/es/company)
+- Noelia López. Autobild **¿Cómo utiliza Waze la información de los usuarios en tiempo real?**. [consulta: 02/06/2024]  Disponible en: [Autobild](https://www.autobild.es/noticias/como-utiliza-waze-informacion-usuarios-tiempo-real-1296154)
 
 Imagenes:
 - Gafas: Pixabay. **Clker-Free-Vector-Images** [consulta: 02/06/2024]. Disponible en: [Pixabay](https://pixabay.com/vectors/spectacles-glasses-eyeglasses-frame-311831/)
+- Iraoki Umeda:  [consulta: 02/06/2024]. Disponible en: ["El mundo"](https://www.elmundo.es/cultura/danza/2019/07/11/5d263a73fdddffcc638b4626.html)
 - Instagram **Hiroaki Umeda Team** [consulta: 02/06/2024]. Disponible en: [https://www.instagram.com/s20hiroakiumedateam](https://www.instagram.com/p/CtbcYv1yecW/)
+- Autobild [consulta: 02/06/2024]  Disponible en: [Autobild](https://www.autobild.es/noticias/como-utiliza-waze-informacion-usuarios-tiempo-real-1296154)
 
 
