@@ -74,6 +74,9 @@ Esta capacidad de combinar y reconfigurar diferentes medios es lo que hace posib
 - EVELYN VELÁZQUEZ. (2019) [consulta: 02/06/2024]. Disponible en: ["El mundo"](https://www.elmundo.es/cultura/danza/2019/07/11/5d263a73fdddffcc638b4626.html)
 - Mediateca Danza UNAM. **Hiraoki Umeda** [consulta: 02/06/2024]. Disponible en: [Mediateca Danza UNAM](https://mediatecadanzaunam.mx/acervo-item/hiroaki-umeda/)
 - Mutek. **Hiraoki Umeda** [consulta: 02/06/2024]. Disponible en: [Mutek]([https://barcelona.mutek.org/es/artistas/hiroaki-umeda](https://barcelona.mutek.org/es/artistas/hiroaki-umeda)
-- Instagram **Hiroaki Umeda Team**: https://www.instagram.com/s20hiroakiumedateam
 - **Waze**. [consulta: 02/06/2024] [https://www.waze.com/es/company](https://www.waze.com/es/company)
+
+Imagenes:
+- Instagram **Hiroaki Umeda Team** [consulta: 02/06/2024]. Disponible en: [https://www.instagram.com/s20hiroakiumedateam](https://www.instagram.com/p/CtbcYv1yecW/)
+
 
