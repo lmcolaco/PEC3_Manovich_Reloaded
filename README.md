@@ -1,8 +1,10 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 
 Autor: Luis Miguel Colaço Rocha da Silva
-
 Fecha: 02/06/2024
+
+![image](https://github.com/lmcolaco/PEC3_Manovich_Reloaded/assets/171519137/3cf230b9-54be-487e-8a0d-3fc24b6c9a2d)
+
 
 ## Planteamiento
 
